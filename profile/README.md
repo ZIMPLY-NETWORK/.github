@@ -1,6 +1,6 @@
-# ZIMPLY.NETWORK
+# ZIMPLEX NETWORK
 
-**ZIMPLY.NETWORK** ist die zentrale Organisation hinter dem **Minecraft Server Zimply Network**.
+**ZIMPLEX NETWORK** ist die zentrale Organisation hinter dem **Minecraft Server Zimplex Network**.
 
 Hier befinden sich unter anderem:
 
